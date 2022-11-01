@@ -25,11 +25,6 @@
 <a href="https://docs.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python" />
 </p>
 
-<h3 align="left">Stats in projects (not study repositories):</h3>
-<p>
-<a href="https://github.com/MathCoimbra"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcoimbra&exclude_repo=study-java,study-python,study-javascript,study-front-end,study-typescript,study-kotlin,study-spring&langs_count=10&hide=powershell,batchfile,scss&show_icons=true&theme=dark&title_color=ffffff&text_color=f2f2f2&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="mathcoimbra" />
-</p>
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathcoimbra" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="mathcoimbra"/>
