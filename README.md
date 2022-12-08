@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<h3 align="center">I'm a forever student and curious about technology whether front-end or back-end I'm always learning. <br>Feel free to see or contribute to what I'm working on.</h3>
+<h3 align="center">I'm a forever student and curious about technology whether front-end or back-end I'm always learning. At the moment I'm focusing on Java language and most common technologies used with it for example: Spring, jUnit and Angular<br>Feel free to see or contribute to what I'm working on.</h3>
 
 ---
 
