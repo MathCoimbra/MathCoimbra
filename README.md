@@ -1,7 +1,7 @@
 Hello there!
 ============
 
-### I'm a forever student and curious about technology whether front-end or back-end I'm always learning.
+### I'm a forever student and curious about technology always learning.
 
 #### At the moment I'm focusing on Javascript language.  
 Feel free to see or contribute to what I'm working on.
