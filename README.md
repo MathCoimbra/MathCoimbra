@@ -1,9 +1,9 @@
 Hello there!
 ============
 
-### I'm a forever student and curious about technology always learning.
+### I'm a forever student and curious about technology, always learning.
 
-#### At the moment I'm focusing on Javascript language.  
+#### At the moment I'm focusing on Javascript/Typescript language.  
 Feel free to see or contribute to what I'm working on.
 
 ### Contact me:
