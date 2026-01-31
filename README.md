@@ -11,4 +11,4 @@ Somando as duas áreas possuo cerca de 5 anos de experiência e subindo...
 
 ### Projetos relevantes
 
-[**Pizzaria Chatbot**](https://github.com/MathCoimbra/pizzaria-chatbot) — Desenvolvimento de um chatbot via WhatsApp Business API para uma pizzaria. Utilizando Node.js (TypeScript), Redis para armazenamento de dados e a API do Gemini para processamento inteligente dos pedidos.
+[**Pizzaria Chatbot**](https://github.com/MathCoimbra/pizzaria-chatbot/tree/feature/chatbot-logic) — Desenvolvimento de um chatbot via WhatsApp Business API para uma pizzaria. Utilizando Node.js (TypeScript), Redis para armazenamento de dados e a API do Gemini para processamento inteligente dos pedidos.
